@@ -1,0 +1,141 @@
+body {
+	background-color: #00053b;
+}
+
+nav {
+	display: inline-block;
+	height: 100px;
+	width: 100%;
+}
+
+nav a {
+	box-sizing: border-box;
+	display: inline-block;
+	color: #00053b;
+	background-color: #95d0f7;
+	text-decoration: none;
+	margin: 12px 2.1px 0px 2.1px;
+	border-radius: 66px;
+	height: 66px;
+	width: 16%;
+	text-align: center;
+	font-size: 21px;
+	padding: 21px 0 21px 0;
+}
+
+section heading {
+	font-size: 3rem;
+	text-align: center;
+	text-decoration: underline;
+	color: #f5a6e7;
+	font-family: "lucida handwriting";
+}
+
+#About_Me {
+	display: inline-block;
+	height: 600px;
+	width: 100%;
+	border: 21px 21px 21px 21px;
+	margin: 21px 21px 21px 21px;
+}
+
+#About_Me h1 {
+	text-align: left;
+	color: #ffffff;
+}
+
+#About_Me img {
+	box-sizing: border-box;
+	height: 400px;
+	float: right;
+	border-radius: 10px;
+	border: 21px;
+	margin: 21px;
+}
+
+.block {
+	display: inline-block;
+	height: 480px;
+	width: 23%;
+	background-color: #95d0f7;
+	margin: 0.8%;
+	border-radius: 12px;
+	text-align: center;
+	font-style: italic;
+	font-size: 21px;
+	color: #00053b;
+	font-weight: 1000;
+	font-family: cursive;
+}
+
+.block img {
+	height: 100px;
+}
+
+.block p {
+	font-size: 18px;
+	text-decoration: none;
+	font-style: initial;
+}
+.block_1 {
+	display: inline-block;
+	height: 455px;
+	width: 23%;
+	background-color: #95d0f7;
+	margin: 5%;
+	border-radius: 12px;
+	text-align: center;
+	font-style: italic;
+	font-size: 21px;
+	color: #00053b;
+	font-weight: 1000;
+	font-family: cursive;
+}
+.block_1 p {
+	font-size: 18px;
+	text-decoration: none;
+	font-style: initial;
+}
+
+#images {
+	background-color: #95d0f7;
+	margin: 21px 0 0 0;
+}
+
+#images img {
+	height: 300px;
+	width: 500px;
+	margin: 1% 4%;
+}
+
+#Paintings {
+	background-color: #f5a6e7;
+	margin: 21px 0 0 0;
+}
+
+#Paintings img {
+	width: 300px;
+	height: 300px;
+	margin: 3px;
+	border: 3px;
+}
+
+#art img {
+	box-sizing: border-box;
+	border-radius: 100px;
+	padding: 30px;
+}
+#Contact_Me div a {
+	box-sizing: content-box;
+	display: inline-block;
+	width: 13%;
+	margin: 3% 10%;
+	color: #ffffff;
+}
+
+#Contact_Me div a i {
+	font-size: 75px;
+}
+#icons {
+	margin: 0 0 0 8%;
+}
